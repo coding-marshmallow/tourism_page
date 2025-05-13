@@ -42,4 +42,4 @@ tourism_page/
 2. Open tourism_website.html in your browser.
 
 
-👨‍💻 Developed by coding-marshmallow
+👨‍💻 Developed by raj-kishor-pal
